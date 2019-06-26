@@ -1,0 +1,5 @@
+Revista [titulo=asf, isbn=7894561230, nPaginas=924, formato=true]
+Revista [titulo=qwe, isbn=1234567890, nPaginas=87, formato=false]
+Revista [titulo=ghj, isbn=7894561230, nPaginas=52, formato=false]
+Revista [titulo=qwe, isbn=º123456789, nPaginas=1, formato=true]
+Revista [titulo=qwe, isbn=1234567890, nPaginas=1, formato=true]
