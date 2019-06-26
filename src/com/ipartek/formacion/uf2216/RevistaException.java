@@ -8,6 +8,7 @@ package com.ipartek.formacion.uf2216;
  *
  */
 
+@SuppressWarnings("serial")
 public class RevistaException extends Exception {
 	
 	public static final String ERROR_TITULO = "La longitud del titulo debe ser minimo 3 y maximo 150.";
